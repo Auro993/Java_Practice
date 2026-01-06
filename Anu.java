@@ -12,4 +12,3 @@ a[i]=sc.nextInt();
 System.out.print(a[i]);
 }
 }
-
